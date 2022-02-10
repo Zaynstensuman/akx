@@ -514,7 +514,21 @@ margin-top: 20px;
   height: 290px;
 }
 
+    .playpause{
+          color: black;
+          padding-left: 33%;
+          font-size: 30px;
+          size: 20%;
+        }
 
+        .playpause1{
+          color: black;
+          padding-left: 35.5%;
+          font-weight: bolder;
+          font-size: 30px;
+          size: 20%;
+          letter-spacing: .7rem;
+        }
 
   #findmeongoogle img{
     width: 300px;
